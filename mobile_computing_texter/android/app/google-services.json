@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215975248523",
+    "project_id": "dating-app-c880d",
+    "storage_bucket": "dating-app-c880d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215975248523:android:7926d40885bd8d20f48a8e",
+        "android_client_info": {
+          "package_name": "com.leocentu.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK8yMgGNV6qoChvX4tE53KaJJhxjkpZ7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215975248523:android:20650e2f8a83282ef48a8e",
+        "android_client_info": {
+          "package_name": "com.leocentu.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK8yMgGNV6qoChvX4tE53KaJJhxjkpZ7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
