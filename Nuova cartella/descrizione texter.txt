@@ -1,0 +1,1 @@
+Questa è un'applicazione di chat casuale tra utenti online nello stesso momento, dove si possono vedere le informazioni relative agli utenti con cui stiamo parlando, che sono state inserite in fase di registrazione, tramite la pagina del profilo che si apre premendo sul nome dell'utente con cui è stato fatto match.
